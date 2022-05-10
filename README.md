@@ -1,11 +1,13 @@
-# Berkeley - Update this file and the code of conduct!
-
-This is the repository for the Berkeley chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/berkeley/blob/main/code-of-conduct.md).
+# Papers We ❤️ Berkeley
 
 ### Information
 
-[Chapter information: who, what, where, when, why]
+We are a student group at UC Berkeley working hard to get out PWL chapter kickstarted.
+
+Always open to new members.
 
 ### Contact
 
-{Names and contact information (twitter, email, etc) of Chapter organizers}
+Saner Cakir: @saneeeee / [saner@berkeley.edu](mailto:saner@berkeley.edu])
+***
+This is the repository for the Berkeley chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/berkeley/blob/main/code-of-conduct.md).
