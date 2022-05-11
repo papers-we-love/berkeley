@@ -9,7 +9,7 @@ const config = {
   title: 'Papers We ❤️ Berkeley',
   tagline: 'PWL Berkeley',
   url: 'http://paperswelove.org/berkeley/',
-  baseUrl: '/',
+  baseUrl: '/berkeley/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
