@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Papers We ❤️ Berkeley',
   tagline: 'PWL Berkeley',
-  url: 'http://paperswelove.org/berkeley/',
+  url: 'http://paperswelove.org/berkeley',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
